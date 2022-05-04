@@ -1,17 +1,16 @@
+# Hoya MBA Survival Guide
+ 
+## Background
+This website is designed to help Georgetown MBA students navigate their experiences. Includes both on-campus and off-campus resources. 
 
-## Prerequisites
+## Tools, Frameworks, and Packages used:
 
-This application requires a Node.js development environment:
+[Node.js](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-  + Node.js
-  + Git
+[Bootstrap](https://getbootstrap.com/docs/5.0/) - Build fast, responsive sites with Bootstrap
 
-## Repo Setup
 
-Make a copy of this template repo (as necessary). Clone your copy of the repo onto your local machine. Navigate there from the command-line:
-
-```sh
-cd ~/Desktop/group-project-node```
+## Installation
 
 Install Packages:
 
@@ -19,7 +18,7 @@ Install Packages:
 npm install
 ```
 
-Install the "nodemon" development server that saves time during development:
+Install the "nodemon" development server:
 
 ```sh
 npm install nodemon -g
@@ -38,4 +37,6 @@ npm run start-dev
 See this [Deployment Guide](/DEPLOYING.md) for instructions on how to deploy this app to a public-facing server operated by the Heroku platform.
 
 
-## [License](/LICENSE.md)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
