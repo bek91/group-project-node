@@ -18,7 +18,7 @@ Then run devserver from project root directory:
 ```
 $ turbo devserver
 or
-$npm run serve //uses the serve script in package.json
+$ npm run serve //uses the serve script in package.json
 ```
 
 To build for production, run build:
