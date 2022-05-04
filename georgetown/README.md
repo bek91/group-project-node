@@ -8,7 +8,7 @@ $ npm install
 ```
 To run dev server, install Turbo CLI globally:
 
-``'
+```
 If MAC: $ sudo npm install turbo-cli -g
 IF PC: $ npm install turbo-cli -g
 ```
