@@ -3,13 +3,19 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Hoya Guide' });
 });
 
 /* GET about page. */
 router.get('/about', function(req, res, next) {
   res.render('about');
 });
+
+/* GET coffee page. */
+router.get('/coffee', function(req, res, next) {
+  res.render('Coffee');
+});
+
 
 /* GET hello page. */
 router.get('/hello', function(req, res, next) {
