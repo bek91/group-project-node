@@ -22,5 +22,8 @@
     "node-fetch": "^2.6.7",
     "passport": "^0.5.2",
     "passport-google-oauth2": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
   }
 }
